@@ -1,1 +1,1 @@
-# integrationproject_sprint_2
+# INTEGRATION_PROJECT_SPRINT_2
